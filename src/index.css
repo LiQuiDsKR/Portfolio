@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'JetBrains Mono', 'Noto Sans KR', sans-serif !important;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

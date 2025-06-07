@@ -1,0 +1,17 @@
+{
+  "frontend": {
+    "advanced": ["HTML", "CSS", "JavaScript", "AndroidStudio"],
+    "intermediate": ["React"],
+    "beginner": ["Next.JS"]
+  },
+  "backend": {
+    "advanced": ["Flask"],
+    "intermediate": ["Java"],
+    "beginner": ["Spring"]
+  },
+  "database": {
+    "advanced": ["MariaDB"],
+    "intermediate": [],
+    "beginner": ["MySQL", "Firebase"]
+  }
+}

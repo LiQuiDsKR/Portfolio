@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jaehyeongdotcom",
+    "title": "재형닷컴",
+    "description": "모바일 게임 마피아42의 서드파티 도우미 서비스",
+    "period": "2024.08 ~ 개발 중",
+    "stack": ["Flask", "HTML", "CSS", "JavaScript", "GCP"],
+    "features": [
+      "카드 강화 시뮬레이터",
+      "이벤트 상자 확률 계산기",
+      "엽서 교환 시뮬레이터",
+      "Cloud Run + GitHub Actions 자동 배포"
+    ]
+  },
+  {
+    "id": "lostcities",
+    "title": "로스트 시티",
+    "description": "보드게임 Lost Cities를 웹으로 구현한 실시간 멀티플레이 게임",
+    "period": "2024.05 ~ 2024.06",
+    "stack": ["JavaScript", "HTML", "CSS", "Firebase"],
+    "features": [
+      "실시간 턴 제어",
+      "확장 룰 (리버스, 무지개카드 등)",
+      "GitHub Pages를 통한 배포"
+    ]
+  }
+]
